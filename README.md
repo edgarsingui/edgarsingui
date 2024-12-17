@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edgar Singui</h1>
 <h3 align="center">A backend developer with a huge passion for mobile dev</h3>
 
-- 🔭 I’m currently working on **SMS Express**
+- 🔭 I’m currently working on **SONILS**
 
 - 🌱 I’m currently learning **Golang, Ruby On Rails, Kotlin, C#, C++**
 
