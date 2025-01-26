@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edgar Singui</h1>
 <h3 align="center">A backend developer with a huge passion for mobile dev</h3>
 
-- 🔭 I’m currently working on **SONILS**
-
-- 🌱 I’m currently learning **Golang, Ruby On Rails, Kotlin, C#, C++**
+- 🌱 I’m currently learning **Golang, Ruby On Rails**
 
 - 👨‍💻 All of my projects are available at [https://edgarsingui.ao/portfolios](https://edgarsingui.ao/portfolios)
 
